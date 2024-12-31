@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="4ed08af5" tvg-name="JAMUNA TV"
-tvg-logo="https://i.ibb.co/dbcFJD0/images-15.png"tvg-chno="2" group-title="NEWS TV", JAMUNA TV
+#EXTINF:-1 tvg-id="ae559a27" tvg-name="JAMUNA TV"tvg-logo="https://i.ibb.co.com/dbcFJD0/images-15.png"tvg-chno="2" group-title="FR TV CHANNEL",JAMUNA TV
 https://youtube.jitendra-kumar.workers.dev/wanda.m3u8?id=Ap2yKxmGTb4
 #EXTINF:-1 tvg-id="ae559a27" tvg-name="DEEPTO TV" tvg-logo="https://i.ibb.co.com/GWP13Xp/unnamed.jpg" tvg-chno="3" group-title="FR TV CHANNEL",DEEPTO TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8

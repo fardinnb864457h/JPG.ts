@@ -1,25 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ae559a27" tvg-name="DEEPTO TV" tvg-logo="https://i.ibb.co.com/GWP13Xp/unnamed.jpg" tvg-chno="3" group-title="FR TV CHANNEL",DEEPTO TV
+#EXTINF:-1 tvg-id="ae559a27" tvg-name="DEEPTO TV" tvg-logo="https://i.ibb.co.com/GWP13Xp/unnamed.jpg" tvg-chno="3" group-title="NEWS TV",DEEPTO TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
-#EXTINF:-1 tvg-id="ae559a27" tvg-name="Channel I"tvg-logo="https://i.ibb.co/Ypq3Fys/channel-i.png"tvg-chno="2" group-title="FR TV CHANNEL",Channel I
+#EXTINF:-1 tvg-id="ae559a27" tvg-name="Channel I"tvg-logo="https://i.ibb.co/Ypq3Fys/channel-i.png"tvg-chno="2" group-title="NEWS TV",Channel I
 https://raw.githubusercontent.com/fardin-toffee-66544/Channel-I-/refs/heads/main/Play.m3u8
-#EXTINF:-1 tvg-id="ae559a27" tvg-name="ATN BANGLA"tvg-logo="https://i.ibb.co.com/hVbsySy/1737315934248.jpg"tvg-chno="2" group-title="FR TV CHANNEL",ATN BANGLA
+#EXTINF:-1 tvg-id="ae559a27" tvg-name="ATN BANGLA"tvg-logo="https://i.ibb.co.com/hVbsySy/1737315934248.jpg"tvg-chno="2" group-title="NEWS TV",ATN BANGLA
 https://raw.githubusercontent.com/fardin-toffee-66544/ATN-BANGLA/refs/heads/main/Play.m3u8
-#EXTINF:-1 tvg-id="ae559a27" tvg-name="Enterr 10 Bangla"tvg-logo="https://i.postimg.cc/j246x4Nf/unnamed.jpg"tvg-chno="2" group-title="FR TV CHANNEL",Enterr 10 Bangla
+#EXTINF:-1 tvg-id="ae559a27" tvg-name="Enterr 10 Bangla"tvg-logo="https://i.postimg.cc/j246x4Nf/unnamed.jpg"tvg-chno="2" group-title="ENTERTAINMENT",Enterr 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
-#EXTINF:-1 tvg-id="ae559a27" tvg-name="9xm"tvg-logo="https://i.postimg.cc/RF6yysgj/image.png"tvg-chno="2" group-title="FR TV CHANNEL",9xm
+#EXTINF:-1 tvg-id="ae559a27" tvg-name="9xm"tvg-logo="https://i.postimg.cc/RF6yysgj/image.png"tvg-chno="2" group-title="ENTERTAINMENT",9xm
 https://d14c63magvk61v.cloudfront.net/strm/channels/9xm/master.m3u8
-#EXTINF:-1 tvg-id="ae559a27" tvg-name="HBO HITS"tvg-logo="https://i.ibb.co/8Bf2N4j/1736074623068.jpg"tvg-chno="2" group-title="FR TV CHANNEL",HBO HITS
+#EXTINF:-1 tvg-id="ae559a27" tvg-name="HBO HITS"tvg-logo="https://i.ibb.co/8Bf2N4j/1736074623068.jpg"tvg-chno="2" group-title="MOVIE",HBO HITS
 https://raw.githubusercontent.com/fardin-toffee-66544/Test/refs/heads/main/Play.m3u8
-#EXTINF:-1 tvg-id="ae559a27" tvg-name="Spotv"tvg-logo="https://i.ibb.co.com/Pr7rFCc/channels4-profile-4.jpg"tvg-chno="2" group-title="FR TV CHANNEL",Spotv
+#EXTINF:-1 tvg-id="ae559a27" tvg-name="Spotv"tvg-logo="https://i.ibb.co.com/Pr7rFCc/channels4-profile-4.jpg"tvg-chno="2" group-title="SPORTS",Spotv
 https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
-#EXTINF:-1 tvg-id="ae559a27" tvg-name="18 Sports HD"tvg-logo="https://i.ibb.co.com/8zXghNF/1733675674713.jpg"tvg-chno="2" group-title="FR TV CHANNEL",18 Sports HD
+#EXTINF:-1 tvg-id="ae559a27" tvg-name="18 Sports HD"tvg-logo="https://i.ibb.co.com/8zXghNF/1733675674713.jpg"tvg-chno="2" group-title="SPORTS",18 Sports HD
 https://jiotvbpklive.cdn.jio.com/bpk-tv/IDCDemo_IPL23_Sports18_MOB/Fallback/IDCDemo_IPL23_Sports18_MOB-audio_98838_eng=98800-video=2293600-433371119.m3u8
-#EXTINF:-1 tvg-id="ae559a27" tvg-name="Nick India"tvg-logo="https://i.ibb.co.com/6R5HWWJ/1736541942128.jpg"tvg-chno="2" group-title="FR TV CHANNEL",Nick India
+#EXTINF:-1 tvg-id="ae559a27" tvg-name="Nick India"tvg-logo="https://i.ibb.co.com/6R5HWWJ/1736541942128.jpg"tvg-chno="2" group-title="KIDS",Nick India
 https://raw.githubusercontent.com/fardin-toffee-66544/nick/refs/heads/main/Play.m3u8
-#EXTINF:-1 tvg-id="ae559a27" tvg-name="Travelux"tvg-logo="https://i.ibb.co.com/WBpnm0C/IMG-20241007-113443.png"tvg-chno="2" group-title="FR TV CHANNEL", Cartoon Network
+#EXTINF:-1 tvg-id="ae559a27" tvg-name="Travelux"tvg-logo="https://i.ibb.co.com/WBpnm0C/IMG-20241007-113443.png"tvg-chno="2" group-title="KIDS", Cartoon Network
 https://cdn09jtedge.indihometv.com/joss/194/cartoonnetwork/index.m3u8
-#EXTINF:-1 tvg-id="ae559a27" tvg-name="Discovery"tvg-logo="https://i.ibb.co/5WNPJ6J/mobile-logo-868363001673181438.png"tvg-chno="2" group-title="FR TV CHANNEL", Discovery
+#EXTINF:-1 tvg-id="ae559a27" tvg-name="Discovery"tvg-logo="https://i.ibb.co/5WNPJ6J/mobile-logo-868363001673181438.png"tvg-chno="2" group-title="INFOTAINMENT", Discovery
 https://webott.viatv.com.np/v0t1/DiscoveryHD.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ae559a27" tvg-name="Travelux"tvg-logo="https://i.postimg.cc/65yj6kgP/images-18.png"tvg-chno="2" group-title="FR TV CHANNEL",Travelux
+#EXTINF:-1 tvg-id="ae559a27" tvg-name="Travelux"tvg-logo="https://i.postimg.cc/65yj6kgP/images-18.png"tvg-chno="2" group-title="INFOTAINMENT",Travelux
 https://17f510c554f64f82a337896666d59b8f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_TravelXP/playlist.m3u8

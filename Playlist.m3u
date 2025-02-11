@@ -18,7 +18,7 @@ https://jiotvbpklive.cdn.jio.com/bpk-tv/IDCDemo_IPL23_Sports18_MOB/Fallback/IDCD
 #EXTINF:-1 tvg-id="ae559a27" tvg-name="Nick India"tvg-logo="https://i.ibb.co.com/6R5HWWJ/1736541942128.jpg"tvg-chno="2" group-title="KIDS",Nick India
 https://raw.githubusercontent.com/fardin-toffee-66544/nick/refs/heads/main/Play.m3u8
 #EXTINF:-1 tvg-id="ae559a27" tvg-name="Travelux"tvg-logo="https://i.ibb.co.com/WBpnm0C/IMG-20241007-113443.png"tvg-chno="2" group-title="KIDS", Cartoon Network
-https://cdn09jtedge.indihometv.com/joss/194/cartoonnetwork/index.m3u8
+https://raw.githubusercontent.com/fardin-toffee-66544/CARTOON-NETWORK/refs/heads/main/Play.m3u8
 #EXTINF:-1 tvg-id="ae559a27" tvg-name="Discovery"tvg-logo="https://i.ibb.co/5WNPJ6J/mobile-logo-868363001673181438.png"tvg-chno="2" group-title="INFOTAINMENT", Discovery
 https://webott.viatv.com.np/v0t1/DiscoveryHD.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ae559a27" tvg-name="Travelux"tvg-logo="https://i.postimg.cc/65yj6kgP/images-18.png"tvg-chno="2" group-title="INFOTAINMENT",Travelux

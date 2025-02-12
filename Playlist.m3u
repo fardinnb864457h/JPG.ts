@@ -23,3 +23,5 @@ https://raw.githubusercontent.com/fardin-toffee-66544/CARTOON-NETWORK/refs/heads
 https://webott.viatv.com.np/v0t1/DiscoveryHD.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ae559a27" tvg-name="Travelux"tvg-logo="https://i.postimg.cc/65yj6kgP/images-18.png"tvg-chno="2" group-title="INFOTAINMENT",Travelux
 https://17f510c554f64f82a337896666d59b8f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_TravelXP/playlist.m3u8
+#EXTINF:-1 tvg-id="ae559a27" tvg-name="Doraemon"tvg-logo="https://i.ibb.co.com/WBpnm0C/IMG-20241007-113443.png"tvg-chno="2" group-title="FR TV CHANNEL", Doraemon
+http://xtv.ooo:8080/movie/874246786/743567899/209324.mkv

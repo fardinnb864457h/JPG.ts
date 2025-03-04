@@ -14,7 +14,7 @@ https://raw.githubusercontent.com/fardin-toffee-66544/Test/refs/heads/main/Play.
 #EXTINF:-1 tvg-id="ae559a27" tvg-name="TEN SPORTS HD"tvg-logo="https://i.ibb.co.com/SSLJPwV/1739307564036.jpg"tvg-chno="2" group-title="SPORTS",TEN Sports HD
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ae559a27" tvg-name="18 Sports HD"tvg-logo="https://i.ibb.co.com/8zXghNF/1733675674713.jpg"tvg-chno="2" group-title="SPORTS",18 Sports HD
-https://jiotvbpklive.cdn.jio.com/bpk-tv/IDCDemo_IPL23_Sports18_MOB/Fallback/IDCDemo_IPL23_Sports18_MOB-audio_98838_eng=98800-video=2293600-433371119.m3u8
+https://raw.githubusercontent.com/fardin-ryys-2357888/Sports-18-HD/refs/heads/main/Play.m3u8
 #EXTINF:-1 tvg-id="ae559a27" tvg-name="Nick India"tvg-logo="https://i.ibb.co.com/6R5HWWJ/1736541942128.jpg"tvg-chno="2" group-title="KIDS",Nick India
 https://raw.githubusercontent.com/fardin-toffee-66544/nick/refs/heads/main/Play.m3u8
 #EXTINF:-1 tvg-id="ae559a27" tvg-name="Travelux"tvg-logo="https://i.ibb.co.com/WBpnm0C/IMG-20241007-113443.png"tvg-chno="2" group-title="KIDS", Cartoon Network

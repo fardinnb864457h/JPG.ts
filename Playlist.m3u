@@ -19,7 +19,7 @@ https://raw.githubusercontent.com/fardin-ryys-2357888/Sports-18-HD/refs/heads/ma
 https://raw.githubusercontent.com/fardin-toffee-66544/nick/refs/heads/main/Play.m3u8
 #EXTINF:-1 tvg-id="ae559a27" tvg-name="Travelux"tvg-logo="https://i.ibb.co.com/WBpnm0C/IMG-20241007-113443.png"tvg-chno="2" group-title="KIDS", Cartoon Network
 https://raw.githubusercontent.com/fardin-toffee-66544/CARTOON-NETWORK/refs/heads/main/Play.m3u8
-#EXTINF:-1 tvg-id="ae559a27" tvg-name="Disney"tvg-logo="https://i.ibb.co/LXgK7PF5/images-68.jpg"tvg-chno="2" group-title="FR TV CHANNEL", Disney 
+#EXTINF:-1 tvg-id="ae559a27" tvg-name="Disney"tvg-logo="https://i.ibb.co/LXgK7PF5/images-68.jpg"tvg-chno="2" group-title="KIDS", Disney 
 http://xtv.ooo:8080/live/874246786/743567899/167551.m3u8
 #EXTINF:-1 tvg-id="ae559a27" tvg-name="Discovery"tvg-logo="https://i.ibb.co/5WNPJ6J/mobile-logo-868363001673181438.png"tvg-chno="2" group-title="INFOTAINMENT", Discovery
 https://webott.viatv.com.np/v0t1/DiscoveryHD.stream/playlist.m3u8

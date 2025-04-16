@@ -25,3 +25,43 @@ http://xtv.ooo:8080/live/874246786/743567899/167551.m3u8
 https://webott.viatv.com.np/v0t1/DiscoveryHD.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ae559a27" tvg-name="Travelux"tvg-logo="https://i.postimg.cc/65yj6kgP/images-18.png"tvg-chno="2" group-title="INFOTAINMENT",Travelux
 https://17f510c554f64f82a337896666d59b8f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_TravelXP/playlist.m3u8
+#EXTM3U
+
+#EXTINF:-1 tvg-id="134" group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png",Deepto TV HD 
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1711/output/index.m3u8
+
+#EXTINF:-1 tvg-id="97" group-title="News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png",Jamuna TV 
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1701/output/index.m3u8
+
+#EXTINF:-1 tvg-id="93" group-title="News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739962961772.png",ATN News 
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1706/output/index.m3u8
+
+#EXTINF:-1 tvg-id="100" group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png",Bangla Vision 
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1715/output/index.m3u8
+
+#EXTINF:-1 tvg-id="122" group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561595482.png",BTV 
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/index.m3u8
+
+#EXTINF:-1 tvg-id="94" group-title="News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png",Channel 24 HD 
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1703/output/index.m3u8
+
+#EXTINF:-1 tvg-id="102" group-title="News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963327549.png",Ekattor HD 
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1705/output/index.m3u8
+
+#EXTINF:-1 tvg-id="65" group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963480044.png",HUM TV 
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1721/output/index.m3u8
+
+#EXTINF:-1 tvg-id="96" group-title="News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739964387847.png",Independent TV 
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1704/output/index.m3u8
+
+#EXTINF:-1 tvg-id="99" group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560841094.png",NTV 
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1716/output/index.m3u8
+
+#EXTINF:-1 tvg-id="98" group-title="News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png",Somoy TV 
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1702/output/index.m3u8
+
+#EXTINF:-1 tvg-id="131" group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740553740665.png",ATN Bangla 
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1722/output/index.m3u8
+
+#EXTINF:-1 tvg-id="132" group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png",Channel I HD 
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1723/output/index.m3u8
